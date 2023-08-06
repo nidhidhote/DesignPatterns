@@ -1,7 +1,8 @@
 # DesignPatterns
 Design Patterns in JAVA with simple real-time examples.
-Strategy Pattern- DuckSimulator App
-Observer Pattern- Weather Station App
-Decorator Pattern- Starbuzz Coffe Shop App
+
+1. Strategy Pattern- DuckSimulator App
+2. Observer Pattern- Weather Station App
+3. Decorator Pattern- Starbuzz Coffe Shop App
 
 Resource: [O`Reilly. Head First] - Head First Design Patterns
